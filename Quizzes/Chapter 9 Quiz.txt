@@ -1,5 +1,5 @@
 1> How are Python dictionaries different from Python lists?
-sol)  Python lists are indexed using integers and dictionaries can use strings as indexes
+sol)  Python lists maintain order and dictionaries do not maintain order
 
 2> What is a term commonly used to describe the Python dictionary feature in other programming languages?
 sol)  Associative arrays
